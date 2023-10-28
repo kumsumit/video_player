@@ -51,9 +51,9 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/build_resolvers-2.3.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/build_resolvers-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "build_runner",
@@ -63,7 +63,7 @@
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/build_runner_core-7.2.10",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/build_runner_core-7.2.11",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -75,7 +75,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.2",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/built_value-8.6.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "code_builder",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/code_builder-4.6.0",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/code_builder-4.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -345,9 +345,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "pool",
@@ -561,7 +561,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/win32-5.0.7",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/win32-5.0.9",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -584,7 +584,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-09T17:56:10.877601Z",
+  "generated": "2023-10-28T15:32:43.406385Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.5"
 }
