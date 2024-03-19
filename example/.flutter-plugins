@@ -1,11 +1,11 @@
 # This is a generated file; do not edit or check into version control.
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
-path_provider=/home/sumit/.pub-cache/git/path_provider-b61812490204279e39c3319aaca9509e93134bdb/
-path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-e2f766fe5ae3f378b2335786cbc9d77fb1921a55/
-path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-d03469b9c2e33ae3766e3b211fa51688e8fd3b35/
-path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-b8224d82f726a802061c8b97484073fd42c031d4/
-path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-ed44a91bd80fef05cbb4de655f62bc2cd12a6108/
+path_provider=/home/sumit/.pub-cache/git/path_provider-b1a281afa47ef5b93baba6c53afcb6ec591f6a9b/
+path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-13c5e4637a28f86fe9d8cf69d8ae88f9cfb56d77/
+path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-1ab38321e254e87e51f1a1a8ca23f6f3b57f0d03/
+path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-150d801243a2f75e2f3b306187d0ba2e3bc03484/
+path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-64abeda415f51397de76b2b27158c0beaf069269/
 video_player=/home/sumit/StudioProjects/packages/packages/video_player/video_player/
-video_player_android=/home/sumit/.pub-cache/git/video_player_android-1746a07a5659d23096a7f3b1df03baa32312d19a/
-video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-5e901e5db32d7b1ba73d4ee30b8917813aeceeea/
-video_player_web=/home/sumit/.pub-cache/git/video_player_web-ac50c076a63207c30c9478612923bedec2727cfc/
+video_player_android=/home/sumit/.pub-cache/git/video_player_android-1fab53aef71d77fbb52f6631d371f41a0add0925/
+video_player_avfoundation=/home/sumit/.pub-cache/git/video_player_avfoundation-de3d3ee8511a4e1e1940f41178fbea2d7c2f8589/
+video_player_web=/home/sumit/.pub-cache/git/video_player_web-2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40/
