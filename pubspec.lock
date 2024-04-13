@@ -211,19 +211,19 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1fab53aef71d77fbb52f6631d371f41a0add0925"
+      resolved-ref: ff0b4192f4a406b46adf12c9c27fb71a26d5e188
       url: "https://github.com/kumsumit/video_player_android.git"
     source: git
-    version: "2.4.12"
+    version: "2.4.13"
   video_player_avfoundation:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: de3d3ee8511a4e1e1940f41178fbea2d7c2f8589
+      resolved-ref: e59a40acfd8eb69d485712670ccf127c7b52f7fa
       url: "https://github.com/kumsumit/video_player_avfoundation.git"
     source: git
-    version: "2.5.6"
+    version: "2.5.7"
   video_player_platform_interface:
     dependency: "direct main"
     description:
@@ -238,7 +238,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40"
+      resolved-ref: "9720ea944dd4aca03098c07a3f9fb31b86b81f08"
       url: "https://github.com/kumsumit/video_player_web.git"
     source: git
     version: "2.3.0"

@@ -165,13 +165,13 @@
     },
     {
       "name": "video_player_android",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_android-1fab53aef71d77fbb52f6631d371f41a0add0925/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_android-ff0b4192f4a406b46adf12c9c27fb71a26d5e188/",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "video_player_avfoundation",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_avfoundation-de3d3ee8511a4e1e1940f41178fbea2d7c2f8589/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_avfoundation-e59a40acfd8eb69d485712670ccf127c7b52f7fa/",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -183,7 +183,7 @@
     },
     {
       "name": "video_player_web",
-      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_web-2fd1a0b7b35577a0011fb23842ac67b7e3f2ce40/",
+      "rootUri": "file:///home/sumit/.pub-cache/git/video_player_web-9720ea944dd4aca03098c07a3f9fb31b86b81f08/",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -206,7 +206,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-13T16:35:33.999215Z",
+  "generated": "2024-04-13T17:16:59.560525Z",
   "generator": "pub",
   "generatorVersion": "3.3.3"
 }
