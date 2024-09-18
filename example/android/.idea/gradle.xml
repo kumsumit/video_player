@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/git/path_provider-464067f1292d84797110982aec8a5c694bf42ec2/android" />
+            <option value="$USER_HOME$/.pub-cache/git/path_provider_android-075dfaa8879cb5226a8876ae2b4c3cd91c0da24f/android" />
+            <option value="$USER_HOME$/.pub-cache/git/path_provider_foundation-0c32fae60f23a0568754137db1bab13a8f532ba9/android" />
+            <option value="$USER_HOME$/.pub-cache/git/path_provider_linux-150d801243a2f75e2f3b306187d0ba2e3bc03484/android" />
+            <option value="$USER_HOME$/.pub-cache/git/path_provider_windows-c867dc01fd2fa9479c18002192a58af6f9b8a9df/android" />
+            <option value="$USER_HOME$/.pub-cache/git/video_player_android-ff0b4192f4a406b46adf12c9c27fb71a26d5e188/android" />
+            <option value="$USER_HOME$/.pub-cache/git/video_player_avfoundation-e59a40acfd8eb69d485712670ccf127c7b52f7fa/android" />
+            <option value="$USER_HOME$/.pub-cache/git/video_player_web-9720ea944dd4aca03098c07a3f9fb31b86b81f08/android" />
+            <option value="$PROJECT_DIR$/../../android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/softwares/flutter/packages/integration_test/android" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
